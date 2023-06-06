@@ -2,7 +2,7 @@
 //  FavoritesView.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 13/10/22.
+//  Created by Yuss on 13/10/22.
 //
 
 import SwiftUI
