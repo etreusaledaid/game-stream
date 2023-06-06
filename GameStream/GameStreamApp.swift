@@ -2,7 +2,7 @@
 //  GameStreamApp.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 22/09/22.
+//  Created by Yuss on 22/09/22.
 //
 
 import SwiftUI
