@@ -2,7 +2,7 @@
 //  SearchGame.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 12/10/22.
+//  Created by Yuss on 12/10/22.
 //
 
 import Foundation
