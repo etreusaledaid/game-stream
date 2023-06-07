@@ -2,7 +2,7 @@
 //  Home.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 26/09/22.
+//  Created by Yuss on 26/09/22.
 //
 
 import SwiftUI
