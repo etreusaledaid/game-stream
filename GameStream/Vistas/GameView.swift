@@ -2,7 +2,7 @@
 //  GameView.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 05/10/22.
+//  Created by Yuss on 05/10/22.
 //
 
 import SwiftUI
