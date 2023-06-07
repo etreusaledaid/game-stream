@@ -2,7 +2,7 @@
 //  GamesView.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 27/09/22.
+//  Created by Yuss on 27/09/22.
 //
 
 //API
