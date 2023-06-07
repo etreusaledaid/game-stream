@@ -2,7 +2,7 @@
 //  ProfileView.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 14/10/22.
+//  Created by Yuss on 14/10/22.
 //
 
 import SwiftUI
