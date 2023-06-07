@@ -2,7 +2,7 @@
 //  SistemaPuntos.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 20/10/22.
+//  Created by Yuss on 20/10/22.
 //
 
 import SwiftUI
