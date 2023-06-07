@@ -2,7 +2,7 @@
 //  OffsetPosition.swift
 //  GameStream
 //
-//  Created by Yussel Coranguez on 27/10/22.
+//  Created by Yuss on 27/10/22.
 //
 
 import SwiftUI
